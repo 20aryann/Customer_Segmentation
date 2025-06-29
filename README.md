@@ -46,5 +46,5 @@ This project analyzes an mall customer's dataset to segment customers based on t
   
 ## 👨‍💻 Author
 
-**Aryan Daiya**\n
+ Aryan Daiya\n
  [GitHub: 20aryann](https://github.com/20aryann)
