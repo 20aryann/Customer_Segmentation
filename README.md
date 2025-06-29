@@ -23,7 +23,7 @@ This project analyzes an mall customer's dataset to segment customers based on t
 
 - PCA
 
-🖥️ How to Run
+## 🖥️ How to Run
 
  1. Clone the repository: git clone   git clone https://github.com/20aryann/Customer_Segmentation.git
  
