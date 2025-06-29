@@ -23,6 +23,7 @@ This project analyzes an mall customer's dataset to segment customers based on t
 
 - PCA
 
+
 ## 🖥️ How to Run
 
  1. Clone the repository: git clone   git clone https://github.com/20aryann/Customer_Segmentation.git
@@ -32,6 +33,7 @@ This project analyzes an mall customer's dataset to segment customers based on t
  3. Install dependencies: pip install -r requirements.txt
 
  4. Run the app: streamlit run app.py
+
 
 
 ## 🚀 Features
