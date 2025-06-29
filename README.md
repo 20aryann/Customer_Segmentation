@@ -10,17 +10,11 @@ This project analyzes an mall customer's dataset to segment customers based on t
 🛠 Tech Stack
 
 - Python 3.8+
-
 - Streamlit
-
 - Scikit-learn
-
 - Pandas
-
 - Matplotlib
-
 - Plotly
-
 - PCA
 
 
