@@ -1,0 +1,64 @@
+# ------------------------
+# Python
+# ------------------------
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
+*.log
+
+# ------------------------
+# Jupyter Notebook
+# ------------------------
+.ipynb_checkpoints/
+
+# ------------------------
+# Streamlit
+# ------------------------
+.streamlit/config.toml
+
+# ------------------------
+# Environment & Dependency Folders
+# ------------------------
+venv/
+env/
+.venv/
+.env/
+Pipfile.lock
+poetry.lock
+
+# ------------------------
+# VS Code / IDEs
+# ------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ------------------------
+# OS Files
+# ------------------------
+.DS_Store
+Thumbs.db
+
+# ------------------------
+# Image cache / temp files
+# ------------------------
+*.png~
+*.bak
+*.tmp
+
+# ------------------------
+# GitHub tokens / sensitive data (if any)
+# ------------------------
+*.env
+.env.*
+
+# ------------------------
+# Misc
+# ------------------------
+*.zip
+*.rar
