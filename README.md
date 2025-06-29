@@ -8,29 +8,30 @@ This project analyzes an mall customer's dataset to segment customers based on t
 ---
 
 🛠 Tech Stack
-Python 3.8+
 
-Streamlit
+- Python 3.8+
 
-Scikit-learn
+- Streamlit
 
-Pandas
+- Scikit-learn
 
-Matplotlib
+- Pandas
 
-Plotly
+- Matplotlib
 
-PCA
+- Plotly
+
+- PCA
 
 🖥️ How to Run
 
-1. Clone the repository: git clone   git clone https://github.com/20aryann/Customer_Segmentation.git
+ 1. Clone the repository: git clone   git clone https://github.com/20aryann/Customer_Segmentation.git
+ 
+ 2. Navigate to the project folder: cd Customer_Segmentation
 
-2. Navigate to the project folder: cd Customer_Segmentation
+ 3. Install dependencies: pip install -r requirements.txt
 
-3. Install dependencies: pip install -r requirements.txt
-
-4. Run the app: streamlit run app.py
+ 4. Run the app: streamlit run app.py
 
 
 ## 🚀 Features
